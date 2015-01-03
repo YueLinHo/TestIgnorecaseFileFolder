@@ -3,5 +3,5 @@
 	repositoryformatversion = 0
 	filemode = false
 	symlinks = false
-	ignorecase = false
+	ignorecase = true
 	logallrefupdates = true
